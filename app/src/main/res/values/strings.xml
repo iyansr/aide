@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game Brout</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="app_id">aplikasi id</string>
+	<string name="banner_id">banner ads id</string>
+	<string name="banner_id2">baner ads id ke 2</string>
+	<string name="interstitial_id">interstital ads id</string>
+	<string name="native_id"></string>
+	<string name="video_id"></string>
+	
+	<string name="home">Home</string>
+	<string name="ML">Mobile Legends</string>
+	<string name="PUBGM">Pubg Mobile</string>
+	<string name="FF">Free Fire</string>
+	<string name="other">Lainnya</string>
+	
+	<string name="rate">Rate</string>
+	<string name="about">About</string>
+
+</resources>

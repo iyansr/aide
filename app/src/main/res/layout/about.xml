@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:gravity="center">
+
+	<ImageView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@mipmap/ic_launcher"
+		android:layout_margin="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="This application was made by fans. All contents of this application are collected from the internet and are not intended for sale. if you feel uncomfortable because the picture you made is in this application please contact me on email. stufio.act@gmail.com"
+		android:padding="10dp"/>
+
+</LinearLayout>
+
